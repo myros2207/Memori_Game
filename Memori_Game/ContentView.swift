@@ -122,7 +122,6 @@ struct CardView: View {
     }
 }
 
-// MARK: - Podgląd w Xcode
 #Preview {
     MemoryGameView()
 }
